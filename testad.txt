@@ -1,0 +1,23 @@
+! https://adblock.turtlecute.org/
+! https://checkadblock.ru/
+
+
+
+! Bugsnag: трекинг ошибок (неблокируемый)
+||api.bugsnag.com^
+||app.bugsnag.com^
+
+! Sentry: трекинг ошибок (неблокируемый)
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+
+! Xiaomi: реклама и аналитика (неблокируемый)
+||api.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.xiaomi.com^
+
+! Яндекс AppMetrica: аналитика приложений (неблокируемый)
+||appmetrica.yandex.ru^
