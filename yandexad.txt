@@ -3,11 +3,20 @@
 ! Homepage: https://github.com/nmisha/adguardhome-filters
 
 
-! ##.InfoSection.PromoOffer
-yandex.ru##.InfoSection.PromoOffer
-ya.ru##.InfoSection.PromoOffer
+||mc.yandex.ru^
+||mc.yandex.com^
+||yabs.yandex.ru^
+||ads.yandex.ru^
+||an.yandex.ru^
+||adfox.ru^
+||adfox.yandex.ru^
+||yandexadexchange.net^
+||webvisor.org^
+||appmetrica.yandex.net^
+||clck.yandex.ru^
+||redirect.appmetrica.yandex.com^
+||ads.adfox.ru^
+||tns-counter.ru^
 
-! ##.vrwuzcn-affwsmmz-et
-##.vrwuzcn-affwsmmz-et:has(span:has-text(Ad))
 
 
