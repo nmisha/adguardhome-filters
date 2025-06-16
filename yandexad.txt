@@ -18,5 +18,5 @@
 ||ads.adfox.ru^
 ||tns-counter.ru^
 
-
+||tracking.ott.yandex.net^
 
