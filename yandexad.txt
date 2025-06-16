@@ -1,0 +1,8 @@
+##.InfoSection.PromoOffer
+! yandex.ru##.InfoSection.PromoOffer
+! ya.ru##.InfoSection.PromoOffer
+
+##.vrwuzcn-affwsmmz-et
+! ##.vrwuzcn-affwsmmz-et:has(span:has-text(Ad))
+
+
