@@ -1,3 +1,8 @@
+! Title: Yandex Ads Filter
+! Version: 2025.06.16
+! Homepage: https://github.com/nmisha/adguardhome-filters
+
+
 ##.InfoSection.PromoOffer
 ! yandex.ru##.InfoSection.PromoOffer
 ! ya.ru##.InfoSection.PromoOffer
