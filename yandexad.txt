@@ -1,0 +1,16 @@
+||mc.yandex.ru^
+||mc.yandex.com^
+||yabs.yandex.ru^
+||ads.yandex.ru^
+||an.yandex.ru^
+||adfox.ru^
+||adfox.yandex.ru^
+||yandexadexchange.net^
+||webvisor.org^
+||appmetrica.yandex.net^
+||clck.yandex.ru^
+||redirect.appmetrica.yandex.com^
+||ads.adfox.ru^
+||tns-counter.ru^
+
+||tracking.ott.yandex.net^
